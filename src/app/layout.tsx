@@ -41,6 +41,9 @@ export const metadata: Metadata = {
     follow: true,
     nocache: true,
   },
+  verification: {
+    google: 'SLLoXlJG6n2tg9pmNk8QdnAWA2TwV5P_uGHoXgLLBLc',
+  },
   // Absolute www canonical — home must match preferred host form.
   alternates: {
     canonical: canonicalUrl('/'),
